@@ -2,4 +2,3 @@ Fichier1 Texte1 Cdp Local
 Fichier1 Texte2 Cdp Local
 Fichier1 Ligne3 Cdp Local
 Fichier1 Ligne4 Cdp Local
-Fichier1 ligne5 Cdp Local
